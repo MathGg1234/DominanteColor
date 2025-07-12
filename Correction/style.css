@@ -1,1 +1,63 @@
 
+body{
+    background-color: bisque;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    height: 98.5vh;
+    gap: 10px;
+}
+
+div{
+    border: black solid 1px;
+    border-radius: 15px;
+}
+
+
+.d1{
+    grid-column: span 4/ span 4;
+    background-color:
+darkslategrey;
+}
+
+.d5{
+    grid-column: span 3/ span 3;
+    background-color: lawngreen;
+    grid-row-start: 2;
+}
+
+.d6{
+    grid-column: span 3/ span 3;
+    grid-row: span 2/ span 2;
+    background-color: darkred;
+    grid-row-start: 3;
+}
+
+.d7{
+    grid-column: span 3/ span 3;
+    background-color: yellow;
+    grid-row-start: 5;
+}
+
+.d3{
+    grid-row: span 4/ span 4;
+    grid-column-start: 4;
+    grid-row-start: 2;
+    background-color: greenyellow;
+}
+
+.d4{
+    grid-row: span 1 / span 1;
+    grid-column-start: 5;
+    grid-row-start: 5;
+    background-color: blueviolet;
+}
+
+
+
+.d2{
+    grid-row: span 4/ span 5;
+    grid-column-start: 5;
+    background-color: orange;
+}
+
