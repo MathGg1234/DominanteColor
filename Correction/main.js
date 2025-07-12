@@ -1,5 +1,5 @@
 const divs = document.querySelectorAll('div');
-const WIKIPEDIA_FR_BASE_URL = 'https://fr.wikipedia.org/wiki/';
+const WIKIPEDIA_FR_BASE_URL = 'https://en.wikipedia.org/wiki/';
 const COLORS = {
     RED: 'red',
     GREEN: 'green',

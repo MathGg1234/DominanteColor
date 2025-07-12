@@ -10,9 +10,12 @@
   <component name="ComposerSettings">
     <execution />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2zJTQq2O3Fv0p1IAt0TU3tZxV9D" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +25,9 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Utilisateurs/mathieu.gouget/Documents/GitHub/DominanteColor",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -42,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751448162106</updated>
       <workItem from="1751448163139" duration="31000" />
+      <workItem from="1752343979365" duration="235000" />
     </task>
     <servers />
   </component>
