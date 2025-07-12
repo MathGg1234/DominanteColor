@@ -4,11 +4,8 @@
 
 ## 📸 Aperçu du projet
 
+https://github.com/user-attachments/assets/57ce8a01-5cdf-4696-be8f-61fcb93182f5
 
-![Aperçu du projet](/Img/img_1.png)
-```
-Ouvrez Apercu.mp4 pour plus d'info
-```
 
 ## 🧠 Objectif pédagogique
 
