@@ -1,5 +1,5 @@
 const divs = document.querySelectorAll('div');
-const WIKIPEDIA_FR_BASE_URL = 'https://en.wikipedia.org/wiki/';
+const WIKIPEDIA_BASE_URL = 'https://en.wikipedia.org/wiki/';
 const COLORS = {
     RED: 'red',
     GREEN: 'green',
@@ -43,7 +43,7 @@ divs.forEach(div => {
         const couleurDominante  = determinerCouleurDominante(valeursRGB);
 
         changerCouleurFond(div, couleurDominante);
-        window.open(`${WIKIPEDIA_FR_BASE_URL}${couleurDominante}`);
+        window.open(`${WIKIPEDIA_BASE_URL}${couleurDominante}`);
 
     });
 });

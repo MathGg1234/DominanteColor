@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="35ff04ca-ad77-4c06-8ab6-8351a2cabc05" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +30,23 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Utilisateurs/mathieu.gouget/Documents/GitHub/DominanteColor",
+    "last_opened_file_path": "D:/Utilisateurs/mathieu.gouget/Documents/GitHub/DominanteColor/Img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Utilisateurs\mathieu.gouget\Documents\GitHub\DominanteColor\Img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Utilisateurs\mathieu.gouget\Documents\GitHub\DominanteColor" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751448162106</updated>
       <workItem from="1751448163139" duration="31000" />
-      <workItem from="1752343979365" duration="235000" />
+      <workItem from="1752343979365" duration="1119000" />
     </task>
     <servers />
   </component>
